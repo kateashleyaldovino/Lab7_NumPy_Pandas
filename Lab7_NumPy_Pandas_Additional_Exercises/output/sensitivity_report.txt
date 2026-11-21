@@ -1,0 +1,29 @@
+
+STATISTICAL ROBUSTNESS AND SENSITIVITY ANALYSIS
+
+Selected Features:
+Feature_455, Feature_407, Feature_107, Feature_443, Feature_385
+
+Bootstrap Repetitions:
+280
+
+Largest Change in Mean Difference:
+0.0001
+
+Features with Changed Difference Sign:
+[]
+
+Features with Changed Ranking:
+[]
+
+Reproducibility Verified:
+True
+
+Interpretation:
+The analysis compared available-case analysis and median imputation.
+The bootstrap method was used to estimate mean differences and
+95% confidence intervals.
+
+Changes in mean differences, confidence intervals, or feature
+rankings show how data preparation methods can affect statistical
+results. These findings should be interpreted carefully.
